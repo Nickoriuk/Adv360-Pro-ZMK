@@ -116,7 +116,7 @@
       bindings = <
         &trans &trans     &trans     &trans      &trans      &trans  &tog 1                                                              &mo 3  &trans &trans      &trans      &trans     &trans        &trans
         &trans &trans     &trans     &trans      &trans      &trans  &trans                                                              &trans &trans &trans      &trans      &trans     &trans        &trans
-        &trans &hml LGUI A &hml LALT S &hml LCTRL D &hml LSHFT F &trans  &trans             &trans &trans &trans &trans              &trans &trans &hmr LSHFT J &hmr LCTRL K &hmr LALT L &hmr LGUI SEMI &trans
+        &trans &trans     &hml LALT S &hml LCTRL D &hml LSHFT F &trans  &trans             &trans &trans &trans &trans                   &trans &trans &hmr LSHFT J &hmr LCTRL K &hmr LALT L &trans     &trans
         &trans &trans     &trans     &trans      &trans      &trans                                &trans &trans                                &trans &trans      &trans      &trans     &trans        &trans
         &trans &trans     &trans     &trans      &trans                              &trans &trans &trans &trans &trans &trans                         &trans      &trans      &trans     &trans        &trans
       >;
